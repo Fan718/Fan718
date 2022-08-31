@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fan!
 - 👀 I’m interested in using data analytics to solve problems and provide solutions. 
 - 🌱 I’m currently learning Python model programming and clouding systems. 
-- 📫 clairefan718@gmail.com
+- 📫 suhang.fan18@gmail.com
 
 <!---
 Fan718/Fan718 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
